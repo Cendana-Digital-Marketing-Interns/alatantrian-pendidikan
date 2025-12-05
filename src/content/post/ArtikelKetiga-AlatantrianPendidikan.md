@@ -2,7 +2,7 @@
 publishDate: 2025-12-8T00:00:00Z
 title: 'PMB Lebih Tertib: Digitalisasi Antrian untuk Kampus Modern'
 excerpt: Bagaimana sistem antrian digital membantu kampus mengelola proses Penerimaan Mahasiswa Baru secara lebih rapi, cepat, dan profesional.
-image: ~/assets/images/hero.png
+image: ~/assets/images/blog/artikel3.png
 category: Pendidikan
 tags:
   - pmb

@@ -1,5 +1,5 @@
 site:
-  name: AlatAntrian Kesehatan
+  name: AlatAntrian Pendidikan
   site: 'https://alatantrian-kesehatan.vercel.app'
   base: '/'
   trailingSlash: false

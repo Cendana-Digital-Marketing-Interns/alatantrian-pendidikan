@@ -2,7 +2,7 @@
 publishDate: 2025-12-05T00:00:00Z
 title: 'Mengapa Sekolah dan Kampus Perlu Beralih ke Sistem Antrian Digital?'
 excerpt: Penjelasan menyeluruh tentang alasan utama institusi pendidikan beralih dari antrian manual ke antrian digital modern.
-image: ~/assets/images/blog/gambarblog2.jpg
+image: ~/assets/images/blog/artikel2.jpg
 category: Pendidikan
 tags:
   - antrian digital

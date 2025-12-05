@@ -22,15 +22,15 @@ Dalam artikel ini, kita membahas mengapa sistem antrian digital menjadi pilihan 
 Dengan metode antrian manual, siswa dan orang tua sering menumpuk di depan loket.  
 Ini dapat menyebabkan:
 
-- Ketidaknyamanan bagi pengunjung  
-- Ruang lobby yang sesak  
+- Ketidaknyamanan bagi pengunjung
+- Ruang lobby yang sesak
 - Menurunnya produktivitas staf
 
 Sistem antrian digital memungkinkan pengunjung mengambil nomor antrian melalui:
 
-- Scan QR  
-- Kiosk check-in  
-- Aplikasi atau link online  
+- Scan QR
+- Kiosk check-in
+- Aplikasi atau link online
 
 Sehingga kerumunan dapat berkurang secara signifikan.
 
@@ -41,9 +41,9 @@ Pelayanan yang lambat sering menimbulkan pertanyaan seperti:
 
 Dengan sistem digital, sekolah/kampus dapat menampilkan:
 
-- Nomor antrian berjalan  
-- Estimasi waktu tunggu  
-- Loket yang sedang aktif melayani  
+- Nomor antrian berjalan
+- Estimasi waktu tunggu
+- Loket yang sedang aktif melayani
 
 Semua dapat dipantau melalui layar TV atau smartphone pengunjung.
 
@@ -52,15 +52,15 @@ Semua dapat dipantau melalui layar TV atau smartphone pengunjung.
 Tanpa sistem digital, staf harus mengatur antrian secara manual sambil tetap memberikan layanan utama.  
 Ini sering menyebabkan:
 
-- Keterlambatan  
-- Salah panggil nomor antrian  
+- Keterlambatan
+- Salah panggil nomor antrian
 - Kebingungan saat jam sibuk
 
 Dengan sistem digital, staf cukup menggunakan dashboard untuk:
 
-- Memanggil antrian  
-- Mengatur penjadwalan  
-- Membagi layanan ke beberapa loket  
+- Memanggil antrian
+- Mengatur penjadwalan
+- Membagi layanan ke beberapa loket
 
 Hasilnya, layanan menjadi lebih cepat dan terorganisir.
 
@@ -71,9 +71,9 @@ Antrian manual sering kewalahan menangani lonjakan pengunjung.
 
 Sistem antrian digital mempermudah:
 
-- Pengelompokan layanan per kategori  
-- Pengaturan kuota harian  
-- Pengarahan pengunjung dengan jelas  
+- Pengelompokan layanan per kategori
+- Pengaturan kuota harian
+- Pengarahan pengunjung dengan jelas
 - Monitoring real-time oleh panitia
 
 Ini meningkatkan kualitas pengalaman orang tua dan calon mahasiswa.
@@ -82,10 +82,10 @@ Ini meningkatkan kualitas pengalaman orang tua dan calon mahasiswa.
 
 Institusi pendidikan yang menggunakan sistem digital memberikan kesan:
 
-- Modern  
-- Tertata  
-- Profesional  
-- Siap menghadapi era digital  
+- Modern
+- Tertata
+- Profesional
+- Siap menghadapi era digital
 
 Ini juga dapat menjadi **nilai jual tambahan** saat promosi sekolah atau akreditasi kampus.
 

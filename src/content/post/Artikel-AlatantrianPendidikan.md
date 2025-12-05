@@ -35,6 +35,7 @@ Sektor pendidikan memiliki kebutuhan unik: layanan yang beragam, mobilitas tingg
 Kiosk Touchscreen memberikan citra profesional dan modern.
 
 Dengan layar 17–24 inch, Kiosk dapat menampilkan:
+
 - Video profil sekolah/kampus
 - Informasi PPDB/PMB
 - Prestasi siswa
@@ -59,6 +60,7 @@ Sekolah dan kampus mengalami puncak keramaian dalam periode tertentu.
 Mesin tombol tidak dapat beradaptasi cepat terhadap peningkatan layanan dan respons visual.
 
 Kiosk Touchscreen:
+
 - Bisa menampilkan panduan,
 - Menampilkan antrian live,
 - Mengelompokkan layanan PPDB/PMB,
@@ -68,7 +70,6 @@ Ini membuat alur kedatangan orang tua atau calon mahasiswa jauh lebih teratur.
 
 ## Kesimpulan
 
-Jika tujuan Anda hanya mengambil nomor secara sederhana, mesin tombol memang terlihat lebih murah di awal.  
+Jika tujuan Anda hanya mengambil nomor secara sederhana, mesin tombol memang terlihat lebih murah di awal.
 
 Namun untuk instansi pendidikan yang ingin tampil modern, fleksibel, dan siap menghadapi perubahan layanan setiap semester, **Kiosk Touchscreen** jelas lebih unggul dan lebih hemat dalam 3–5 tahun pemakaian.
-

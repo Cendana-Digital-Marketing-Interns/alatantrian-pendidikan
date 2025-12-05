@@ -108,6 +108,6 @@ export const footerData = {
     { ariaLabel: 'LinkedIn', icon: 'tabler:brand-linkedin', href: '#' },
   ],
   footNote: `
-    © 2025 <a class="text-blue-600 underline dark:text-muted" href="https://alatantrian.com/">AlatAntrian.com Group</a> · Spesialis Antrian Kesehatan.
+    © 2025 <a class="text-blue-600 underline dark:text-muted" href="https://alatantrian.com/">AlatAntrian.com Group</a> · Spesialis Antrian Pendidikan.
   `,
 };

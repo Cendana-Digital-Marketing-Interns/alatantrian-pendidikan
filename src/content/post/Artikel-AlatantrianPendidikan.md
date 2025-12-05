@@ -2,7 +2,7 @@
 publishDate: 2025-12-04T00:00:00Z
 title: 'Sistem Antrian Sekolah/Kampus: Sudah Modern atau Masih Jadul?'
 excerpt: Perbandingan praktis antara mesin antrian touchscreen modern dan mesin tombol konvensional dalam lingkungan pendidikan.
-image: ~/assets/images/hero-image.png
+image: ~/assets/images/gambarblog1.png
 category: Pendidikan
 tags:
   - hardware

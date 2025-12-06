@@ -1,27 +1,27 @@
 ---
-title: 'Training & Edukasi Staff RS'
-description: 'Pelatihan intensif untuk operator pendaftaran, perawat, dan tim IT internal agar mahir mengoperasikan sistem antrian.'
-image: '~/assets/images/hero-image.png'
+title: 'Training & Edukasi Staff Kampus'
+description: 'Pelatihan intensif untuk petugas BAAK, keuangan, akademik, perpustakaan, dan tim IT agar mahir mengoperasikan sistem antrian kampus.'
+image: '~/assets/images/training.jpg'
 category: 'Layanan Edukasi'
 productType: 'service'
 icon: 'tabler:school'
 features:
-  - 'Pelatihan Admin Pendaftaran (FO)'
-  - 'Pelatihan Perawat Poli'
+  - 'Pelatihan Admin BAAK & Akademik'
+  - 'Pelatihan Layanan Keuangan'
   - 'Pelatihan IT & Troubleshooting Dasar'
   - 'Buku Panduan (User Manual)'
   - 'Sertifikat Pelatihan'
 metadata:
-  title: 'Jasa Training Sistem Antrian RS'
+  title: 'Jasa Training Sistem Antrian Pendidikan'
 ---
 
 ## Investasi SDM Anda
 
-Sistem canggih tidak akan maksimal tanpa operator yang handal. Kami memastikan SDM Rumah Sakit Anda siap 100% sebelum sistem _Go-Live_.
+Sistem antrian modern hanya bisa berjalan optimal jika operatornya memahami alurnya dengan baik. Kami memastikan staf kampus Anda siap 100% sebelum sistem Go-Live dan digunakan oleh mahasiswa.
 
 ### Materi Pelatihan
 
-1.  **Front Office:** Cara registrasi pasien baru, pasien BPJS, dan penanganan kendala mesin Kiosk.
-2.  **Perawat:** Cara memanggil, menunda (skip), dan transfer pasien antar poli.
-3.  **Manajemen:** Cara membaca laporan statistik dan dashboard monitoring.
+1.  **Layanan BAAK & Akademik:** Cara melayani mahasiswa, memanggil nomor antrian, menunda (skip), hingga memindahkan layanan ke unit lain.
+2.  **Layanan Keuangan:** Alur pemanggilan, verifikasi mahasiswa, dan proses antrean pembayaran UKT atau administrasi lainnya.
+3.  **Manajemen & Operator Unit:** Cara membaca laporan statistik, monitoring antrian real-time, dan pengelolaan loket-loket.
 4.  **IT Support:** Cara backup database dan penanganan error ringan (kertas habis, jaringan putus).

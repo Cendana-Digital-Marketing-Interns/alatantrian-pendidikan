@@ -8,16 +8,16 @@ export const headerData = {
       links: [
         // Kelompok Produk
         {
-          text: 'Hardware Kiosk RS',
-          href: getPermalink('/products/kiosk-rs'), // Pastikan slug sesuai nama file md
+          text: 'Hardware Kiosk',
+          href: getPermalink('/products/kiosk'), // Pastikan slug sesuai nama file md
         },
         {
-          text: 'Software BPJS',
-          href: getPermalink('/products/software-bpjs'),
+          text: 'Software',
+          href: getPermalink('/products/software'),
         },
         {
-          text: 'Sistem Poliklinik',
-          href: getPermalink('/products/poliklinik'),
+          text: 'Sistem ',
+          href: getPermalink('/products/sistem'),
         },
         // Kelompok Layanan (Urutan di bawah produk)
         {

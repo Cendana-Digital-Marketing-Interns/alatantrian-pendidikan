@@ -1,27 +1,28 @@
 ---
 title: 'Jasa Instalasi & Konfigurasi'
-description: 'Layanan pemasangan hardware kiosk, display, dan instalasi jaringan LAN hingga sistem siap digunakan (Turnkey Project).'
-image: '~/assets/images/hero-image.png'
+description: 'Layanan pemasangan mesin antrian, display TV, jaringan LAN, dan setup sistem antrian pendidikan hingga siap digunakan (Turnkey Project).'
+image: '~/assets/images/teknisi.jpg'
 category: 'Layanan Teknis'
 price: 'Hubungi Sales'
 productType: 'service'
 icon: 'tabler:tool'
 features:
-  - 'Pemasangan Kiosk & Bracket TV'
+  - 'Pemasangan Mesin Kiosk & Display TV'
   - 'Konfigurasi IP & Mikrotik'
   - 'Deploy Software Server'
-  - 'Bridging SIMRS & BPJS'
+  - 'Integrasi Sistem Akademik Kampus'
 metadata:
-  title: 'Jasa Instalasi Mesin Antrian RS'
+  title: 'Jasa Instalasi Mesin Antrian Pendidikan'
 ---
+
 
 ## Lingkup Pekerjaan
 
-Tim teknisi kami akan menangani seluruh proses instalasi fisik dan digital di lokasi Anda, meliputi:
+Tim teknisi kami akan menangani seluruh proses instalasi fisik dan digital di lokasi Anda, meliputi:  
 
 1.  **Pemasangan Hardware:** Perakitan Kiosk, pemasangan Bracket TV, dan penarikan kabel LAN/HDMI.
 2.  **Konfigurasi Jaringan:** Setup IP Address statis, konfigurasi Mikrotik (jika ada), dan tes koneksi server lokal.
-3.  **Instalasi Software:** Deploy aplikasi antrian di server lokal RS atau Cloud.
-4.  **Bridging System:** Koneksi API antara mesin antrian dengan SIMRS dan V-Claim BPJS.
+3.  **Instalasi Software:** Deploy aplikasi antrian ke server kampus (On-Premise) atau Cloud, termasuk konfigurasi loket-loket seperti BAAK, Keuangan, Akademik, dan Perpustakaan.
+4.  **Integrasi Sistem Akademikm:** Koneksi API ke sistem informasi kampus (SIM Akademik/SIAD) untuk mempermudah validasi data mahasiswa dan alur pelayanan.
 
-Kami menjamin instalasi yang rapi, aman (electrical safety), dan sesuai standar estetika Rumah Sakit.
+Kami memastikan instalasi rapi, aman, dan sesuai standar estetika lingkungan pendidikan.

@@ -1,7 +1,7 @@
 ---
 title: 'Maintenance & Support Prioritas'
 description: 'Layanan purna jual untuk menjamin sistem antrian Anda selalu online 24/7. Bebas khawatir kendala teknis.'
-image: '~/assets/images/hero-image.png'
+image: '~/assets/images/maintenance.png'
 category: 'Layanan Purna Jual'
 productType: 'service'
 icon: 'tabler:headset'

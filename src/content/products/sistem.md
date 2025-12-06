@@ -15,8 +15,8 @@ metadata:
   title: 'Sistem Antrian Layanan Kampus'
 ---
 
-
 ## Alur Layanan Kampus yang Lebih Tenang
+
 Lupakan panggilan manual atau mahasiswa yang menumpuk di depan loket. Dengan sistem ini, ruang layanan kampus menjadi lebih rapi, tenang, dan jauh lebih efisien.
 
 ### Keunggulan Modul Layanan Kampus

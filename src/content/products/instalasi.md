@@ -15,10 +15,9 @@ metadata:
   title: 'Jasa Instalasi Mesin Antrian Pendidikan'
 ---
 
-
 ## Lingkup Pekerjaan
 
-Tim teknisi kami akan menangani seluruh proses instalasi fisik dan digital di lokasi Anda, meliputi:  
+Tim teknisi kami akan menangani seluruh proses instalasi fisik dan digital di lokasi Anda, meliputi:
 
 1.  **Pemasangan Hardware:** Perakitan Kiosk, pemasangan Bracket TV, dan penarikan kabel LAN/HDMI.
 2.  **Konfigurasi Jaringan:** Setup IP Address statis, konfigurasi Mikrotik (jika ada), dan tes koneksi server lokal.

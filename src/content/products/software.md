@@ -15,7 +15,6 @@ metadata:
   title: 'Software Antrian Pendidikan — Sekolah & Kampus'
 ---
 
-
 ## Integrasi Tanpa Hambatan
 
 Software kami dirancang khusus untuk memenuhi kebutuhan sekolah dan kampus dalam mengelola pelayanan administrasi yang padat. Membantu institusi pendidikan **meningkatkan efisiensi**, mengurangi antrean fisik, dan meningkatkan kenyamanan mahasiswa serta orang tua.

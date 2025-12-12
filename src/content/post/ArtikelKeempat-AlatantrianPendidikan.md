@@ -1,5 +1,5 @@
 ---
-publishDate: 2025-12-10T00:00:00Z
+publishDate: 2025-12-8T00:00:00Z
 title: 'PPDB Tanpa Kekacauan: Solusi Antrian Digital untuk Sekolah Modern'
 excerpt: Bagaimana sistem antrian digital membantu sekolah mengelola kerumunan saat PPDB, meningkatkan efisiensi dan pengalaman orang tua.
 image: ~/assets/images/blog/artikel4.jpg

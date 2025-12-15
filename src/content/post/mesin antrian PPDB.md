@@ -1,8 +1,8 @@
 ---
-title: "Mesin Antrian PPDB: Solusi Modern Sekolah Unggul"
-meta_description: "Optimalkan layanan sekolah dengan mesin antrian PPDB. Atasi kerumunan orang tua dan tingkatkan citra sekolah Anda dengan teknologi terkini yang modern."
-excerpt: "Optimalkan layanan sekolah dengan mesin antrian PPDB. Atasi kerumunan orang tua dan tingkatkan citra sekolah Anda dengan teknologi terkini yang modern."
-focus_keyword: "mesin antrian PPDB"
+title: 'Mesin Antrian PPDB: Solusi Modern Sekolah Unggul'
+meta_description: 'Optimalkan layanan sekolah dengan mesin antrian PPDB. Atasi kerumunan orang tua dan tingkatkan citra sekolah Anda dengan teknologi terkini yang modern.'
+excerpt: 'Optimalkan layanan sekolah dengan mesin antrian PPDB. Atasi kerumunan orang tua dan tingkatkan citra sekolah Anda dengan teknologi terkini yang modern.'
+focus_keyword: 'mesin antrian PPDB'
 image: ~/assets/images/blog/antriantertibppdb.png
 category: Sekolah
 tags:
@@ -41,7 +41,7 @@ Solusi dari masalah menahun ini sebenarnya sederhana, yaitu digitalisasi alur ke
 
 Dengan menggunakan **mesin antrian PPDB**, sekolah dapat menghilangkan kebiasaan orang tua datang di waktu subuh.
 
-Sistem ini biasanya terintegrasi dengan fitur *Booking Online*. Orang tua bisa mengambil nomor antrian dari rumah melalui aplikasi atau website.
+Sistem ini biasanya terintegrasi dengan fitur _Booking Online_. Orang tua bisa mengambil nomor antrian dari rumah melalui aplikasi atau website.
 
 Mereka mendapatkan estimasi waktu panggil yang akurat. Sehingga, mereka hanya perlu datang mendekati waktu giliran mereka dipanggil.
 
@@ -49,9 +49,9 @@ Tidak ada lagi penumpukan massa di lobi sekolah pada pagi buta. Lobi sekolah men
 
 ### Fitur Kiosk Antrian yang Memudahkan
 
-Salah satu komponen utama dari solusi ini adalah perangkat Kiosk (Anjungan Mandiri). Perangkat ini diletakkan di area depan sekolah sebagai titik *check-in*.
+Salah satu komponen utama dari solusi ini adalah perangkat Kiosk (Anjungan Mandiri). Perangkat ini diletakkan di area depan sekolah sebagai titik _check-in_.
 
-Saat orang tua datang, mereka cukup memindai kode *booking* atau menekan tombol layanan di layar sentuh. Kiosk akan mencetak tiket antrian secara otomatis.
+Saat orang tua datang, mereka cukup memindai kode _booking_ atau menekan tombol layanan di layar sentuh. Kiosk akan mencetak tiket antrian secara otomatis.
 
 Tiket tersebut berisi informasi nomor urut, jenis layanan (misalnya: Verifikasi Berkas atau Wawancara), dan estimasi waktu tunggu.
 
@@ -67,16 +67,16 @@ Investasi pada **mesin antrian PPDB** memberikan dampak positif yang berkelanjut
 Data menunjukkan bahwa sistem digital mempercepat proses pelayanan hingga 30%. Panitia bisa fokus memeriksa kelengkapan dokumen tanpa gangguan suara bising.
 
 **Kedua, Validitas Data.**
-Sistem ini merekam data jumlah pengunjung harian secara *real-time*. Kepala sekolah dan Yayasan bisa memantau kinerja panitia dan beban kerja harian melalui *dashboard* laporan.
+Sistem ini merekam data jumlah pengunjung harian secara _real-time_. Kepala sekolah dan Yayasan bisa memantau kinerja panitia dan beban kerja harian melalui _dashboard_ laporan.
 
 **Ketiga, Modernisasi Fasilitas.**
 Sekolah akan dikenal sebagai institusi yang melek teknologi. Ini menjadi nilai jual (selling point) tersendiri di mata calon wali murid.
 
 ## Mengapa Memilih Solusi Kami?
 
-Kami memahami bahwa setiap sekolah memiliki tata letak dan kebutuhan alur yang berbeda. Ada sekolah yang membutuhkan alur linier, ada pula yang membutuhkan sistem *multi-service*.
+Kami memahami bahwa setiap sekolah memiliki tata letak dan kebutuhan alur yang berbeda. Ada sekolah yang membutuhkan alur linier, ada pula yang membutuhkan sistem _multi-service_.
 
-Solusi **mesin antrian PPDB** kami dirancang fleksibel untuk kebutuhan pendidikan. Perangkat keras kami tahan lama (durable) dan perangkat lunak kami sangat *user-friendly*.
+Solusi **mesin antrian PPDB** kami dirancang fleksibel untuk kebutuhan pendidikan. Perangkat keras kami tahan lama (durable) dan perangkat lunak kami sangat _user-friendly_.
 
 Kami telah membantu banyak institusi pendidikan mengubah wajah pelayanan mereka menjadi lebih humanis dan profesional. Jangan biarkan reputasi sekolah Anda tergerus oleh manajemen antrian yang buruk.
 

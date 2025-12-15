@@ -31,7 +31,7 @@ Selain itu, kerumunan yang tidak terkendali berpotensi melanggar protokol keseha
 
 Staf administrasi pun menjadi stres karena harus berteriak memanggil nomor atau menenangkan kerumunan. Energi yang seharusnya digunakan untuk verifikasi berkas, habis untuk menertibkan barisan.
 
-Padahal, Kementerian Pendidikan dan Kebudayaan selalu mendorong peningkatan kualitas layanan pendidikan. Anda bisa melihat berbagai regulasi terkait standar pelayanan di laman [JDIH Kemdikbud](https://jdih.kemdikbud.go.id/).
+Padahal, Kementerian Pendidikan dan Kebudayaan selalu mendorong peningkatan kualitas layanan pendidikan. Anda bisa melihat berbagai regulasi terkait standar pelayanan di laman [JDIH Kemdikbud](https://kemdikbud.go.id/).
 
 Sekolah yang unggul harus mampu mencerminkan ketertiban sejak langkah pertama proses pendaftaran.
 

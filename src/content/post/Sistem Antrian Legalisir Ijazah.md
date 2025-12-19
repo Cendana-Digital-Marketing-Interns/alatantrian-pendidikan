@@ -1,7 +1,7 @@
 ---
-title: "Sistem Antrian Legalisir Ijazah"
-meta_description: "Optimalkan layanan alumni dengan sistem antrian legalisir ijazah. Mesin kiosk antrian mengurangi waktu tunggu dan meningkatkan kepuasan layanan akademik."
-excerpt: "Optimalkan layanan alumni dengan sistem antrian legalisir ijazah. Mesin kiosk antrian mengurangi waktu tunggu dan meningkatkan kepuasan layanan akademik."
+title: 'Sistem Antrian Legalisir Ijazah'
+meta_description: 'Optimalkan layanan alumni dengan sistem antrian legalisir ijazah. Mesin kiosk antrian mengurangi waktu tunggu dan meningkatkan kepuasan layanan akademik.'
+excerpt: 'Optimalkan layanan alumni dengan sistem antrian legalisir ijazah. Mesin kiosk antrian mengurangi waktu tunggu dan meningkatkan kepuasan layanan akademik.'
 focus_keyword: 'sistem antrian legalisir ijazah'
 image: ~/assets/images/blog/antriantertibmahasiswa.png
 category: kampus & sekolah
